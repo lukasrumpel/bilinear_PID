@@ -1,1 +1,2 @@
- 
+ A software PID controller should be developed because the current solutions were not satisfactory, as they merely reflected the concept. The goal was to implement a digital representation of a continuous-time PID controller, as established control design methods should be applied.
+The source code is written in C, so implementation on microcontrollers with integrated floating-point unit is possible.
